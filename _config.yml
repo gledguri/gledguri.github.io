@@ -1,0 +1,17 @@
+# Site Settings
+title: "Gledis Guri"
+description: "A short description of your site's purpose"
+
+# Theme Settings
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Site options
+show_downloads: true
+
+# Google Analytics
+google_analytics: G-2E6DLQVRKL
