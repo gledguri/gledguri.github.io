@@ -1,4 +1,11 @@
 title: "Gledis Guri - Postdoctoral Researcher"
 description: "A personal website for showcasing my research, publications, and projects."
 baseurl: ""
-url: "https://gledguri/gledguri.github.io"
+url: "https://gledguri.github.io/gledguri.github.io"  # Make sure your URL is correct
+
+# Add these configurations for Kramdown
+markdown: kramdown
+kramdown:
+  input: GFM  # Use GitHub-Flavored Markdown
+  auto_ids: true  # Automatically generate IDs for headings
+  toc_levels: 1..6  # Generate TOC for heading levels 1 to 6

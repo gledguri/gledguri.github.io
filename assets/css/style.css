@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #4A90E2;
+  background-color: #f4f4f4;
   color: white;
 }
 
@@ -16,7 +16,7 @@ a {
 }
 
 footer {
-  background-color: #4A90E2;
+  background-color: #f4f4f4;
   color: white;
   padding: 20px;
   text-align: center;
@@ -43,4 +43,25 @@ p {
     max-width: 800px;
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul.toc {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+ul.toc li {
+  list-style: none;
+  margin-left: 10px;
+}
+
+ul.toc li a {
+  text-decoration: none;
+  color: #007bff; /* Blue links */
+}
+
+ul.toc li a:hover {
+  text-decoration: underline;
 }
