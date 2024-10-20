@@ -1,12 +1,27 @@
 /* Style the body */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
 }
 
-/* Style the heading */
+header {
+  background-color: #4A90E2;
+  color: white;
+}
+
+a {
+  color: #4A90E2;
+}
+
+footer {
+  background-color: #4A90E2;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
 h1 {
     color: #333;
     text-align: center;

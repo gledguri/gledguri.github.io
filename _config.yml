@@ -4,14 +4,23 @@ description: "A short description of your site's purpose"
 
 # Theme Settings
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-
-# Plugins
+remote_theme: just-the-docs/just-the-docs
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Site options
 show_downloads: true
 
 # Google Analytics
 google_analytics: G-2E6DLQVRKL
+
+# Enable site-wide search function
+search_enabled: true
+
+# Site navigation
+nav:
+  "Home": "/"
+  "Publications": "/publications/"
+  "About": "/about/"
+  "Projects": "/projects/"
+  "CV": "/cv/"
