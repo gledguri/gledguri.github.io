@@ -1,26 +1,4 @@
-# Site Settings
-title: "Gledis Guri"
-description: "A short description of your site's purpose"
-
-# Theme Settings
-theme: jekyll-theme-minimal
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-seo-tag
-
-# Site options
-show_downloads: true
-
-# Google Analytics
-google_analytics: G-2E6DLQVRKL
-
-# Enable site-wide search function
-search_enabled: true
-
-# Site navigation
-nav:
-  "Home": "/"
-  "Publications": "/publications/"
-  "About": "/about/"
-  "Projects": "/projects/"
-  "CV": "/cv/"
+title: "Your Name - Postdoctoral Researcher"
+description: "A personal website for showcasing my research, publications, and projects."
+baseurl: ""
+url: "https://gledguri/gledguri.github.io"

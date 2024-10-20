@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+
+  <header>
+    <h1>Gledis Guri - Postdoctoral Researcher</h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+      <a href="{{ '/publications' | relative_url }}">Publications</a>
+      <a href="{{ '/projects' | relative_url }}">Projects</a>
+      <a href="{{ '/cv' | relative_url }}">CV</a>
+      <a href="{{ '/contact' | relative_url }}">Contact</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+  <footer>
+    {% include footer.html %}
+  </footer>
+
+</body>
+</html>
