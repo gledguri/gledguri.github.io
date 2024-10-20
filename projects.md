@@ -4,7 +4,7 @@ title: "projects"
 nav_order: 4
 ---
 
-# Publications
+# Projects
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  

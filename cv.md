@@ -4,7 +4,7 @@ title: "cv"
 nav_order: 5
 ---
 
-# Publications
+# CV
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  

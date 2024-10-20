@@ -4,7 +4,7 @@ title: "contacts"
 nav_order: 6
 ---
 
-# Publications
+# Contacts
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  

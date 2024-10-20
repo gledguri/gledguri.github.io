@@ -1,12 +1,9 @@
 ---
 layout: default
-title: "About"
+title: "about"
 nav_order: 2
 ---
 # About Me
-
-* TOC
-{:toc}
 
 ![My Picture](assets/images/my_photo.jpeg)
 
