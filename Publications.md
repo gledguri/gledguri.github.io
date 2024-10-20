@@ -6,9 +6,6 @@ nav_order: 3
 
 # Publications
 
-* TOC
-{:toc}
-
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  
    Journal: [Journal Name], Year, [DOI link or URL]  

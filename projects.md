@@ -1,13 +1,10 @@
 ---
 layout: default
-title: "publications"
+title: "projects"
 nav_order: 4
 ---
 
 # Publications
-
-* TOC
-{:toc}
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  
