@@ -1,0 +1,31 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 0;
+}
+
+/* Style paragraphs */
+p {
+    color: #666;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Add a background color to the page container */
+.container {
+    background-color: white;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
