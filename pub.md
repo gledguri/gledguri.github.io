@@ -12,22 +12,9 @@ nav_order: 3
 1. **Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords**  
    Gledis Guri<sup>1,2</sup>, Jon-Ivar Westgaard<sup>1</sup>, Nigel Yoccoz<sup>3</sup>, Owen S. Wangensteen<sup>2,4</sup>, Kim Præbel<sup>2</sup>, Jessica Louise Ray<sup>5</sup>, Ryan P. Kelly<sup>6</sup>, Andrew Olaf Shelton<sup>7</sup>, Tanja Hanebrekke<sup>1</sup>, Torild Johansen<sup>1</sup>  
    *Environmental DNA*, 2024, [doi.org/10.1002/edn3.409](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409)
-
-   <div style="font-size: 1em; font-family: Arial, sans-serif; margin-left: 0.8em;">
-   <sup>1</sup> Norwegian Institute of Marine Research, Framsenteret, Tromsø, Norway<br>
-   <sup>2</sup> Norwegian College of Fishery Science, UiT The Arctic University of Norway, Tromsø, Norway<br>
-   <sup>3</sup> Dept. of Arctic and Marine Biology, UiT The Arctic University of Norway, Tromsø, Norway<br>
-   <sup>4</sup> Dept. of Evolutionary Biology, Ecology & Environmental Sciences, Universitat de Barcelona, Barcelona, Spain<br>
-   <sup>5</sup> NORCE Norwegian Research Centre AS, Climate & Environment Division, NO-5838, Bergen, Norway<br>
-   <sup>6</sup> School of Marine and Environmental Affairs, University of Washington, Seattle, Washington, USA<br>
-   <sup>7</sup> Northwest Fisheries Science Center, NOAA Fisheries, Seattle, Washington, USA
-   </div>
-</div>
-
 <a href="assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf" target="_blank" style="flex-shrink: 0;">
    <img src="assets/images/Maximizing_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 140px; height: 200px; margin-left: 20px;">
 </a>
-
 </div>
 
 <br>
