@@ -26,8 +26,8 @@ nav_order: 3
 
 <div style="flex: 1;">
 2. <b style="font-size: 2.5em;">Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding</b><br>
-   <span style="font-size: 2.2em;">Marta Turon<, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel</span><br>
-   <i>Frontiers in Genetics</i>, 2022, <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a>
+   <span style="font-size: 2.2em;">Marta Turon<, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel<br>
+   <i>Frontiers in Genetics</i>, 2022, <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</span></a>
 
 </div>
 
