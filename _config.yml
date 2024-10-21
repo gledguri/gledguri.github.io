@@ -1,7 +1,7 @@
 title: "Gledis Guri - Postdoctoral Researcher"
 description: "A personal website for showcasing my research, publications, and projects."
 baseurl: ""
-url: "https://gledguri.github.io/gledguri.github.io"  # Make sure your URL is correct
+url: "https://gledguri.github.io"  # Make sure your URL is correct
 
 # Add these configurations for Kramdown
 markdown: kramdown
