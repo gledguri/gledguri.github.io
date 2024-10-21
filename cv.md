@@ -10,6 +10,10 @@ nav_order: 6
 
 ## Working Experience
 
+**Feb 2024 – Jul 2024**
+**Postdoc #1**, [Institute of Marine Research](https://hi.no/hi), Norway  
+Developing quantitative models for estimating fish
+
 **Feb 2021 – Jan 2024**
 **PhD in Marine Biology**, [Institute of Marine Research](https://hi.no/hi), Norway  
 During the PhD research, I optimized sampling designs for detecting fish community compositional changes, developed innovative Bayesian models to analyze eDNA metabarcoding data for multiple fish species, and conducted a thorough analysis of seasonal variations in fish communities in the context of climate change and anthropogenic impacts. Gained valuable experience in data analysis, modelling, and ecological research, and developed a passion for using cutting-edge techniques to address critical environmental challenges.
@@ -51,8 +55,8 @@ Focused on Baltic Sea marine biology, environmental impact assessments (EIA), ma
 
 ## Skills
 
-**Marine Biology**: eDNA metabarcoding, qPCR, ddPCR, biodiversity assessments, ecologycal study design.
-**Ecological Data Analysis**: Bayesian models (stan), R.
+**Marine Biology**: eDNA metabarcoding, qPCR, ddPCR, biodiversity assessments, ecologycal study design.  
+**Ecological Data Analysis**: Bayesian models (stan), R.  
 **GIS and Spatial Analysis**: ArcGIS, QGIS, Species Distribution Models, wave exposure mapping, MPA frameworks.
 
 ---
