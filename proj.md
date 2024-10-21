@@ -9,9 +9,8 @@ nav_order: 4
 1. **Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords**  
    Gledis Guri<sup>1,2</sup>, Jon-Ivar Westgaard<sup>1</sup>, Nigel Yoccoz<sup>3</sup>, Owen S. Wangensteen<sup>2,4</sup>, Kim Præbel<sup>2</sup>, Jessica Louise Ray<sup>5</sup>, Ryan P. Kelly<sup>6</sup>, Andrew Olaf Shelton<sup>7</sup>, Tanja Hanebrekke<sup>1</sup>, Torild Johansen<sup>1</sup>  
    *Environmental DNA*, 2024, [doi.org/10.1002/edn3.409](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409)
-   <a href="assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf" target="_blank" style="display: inline-block; padding: 2px 4px; font-size: 10px; border: 1px solid #ccc; background-color: #f0f0f0; width: 40px; height: 10px; text-align: center;">PDF</a>
    <a href="assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf" target="_blank">
-      <img src="assets/images/Maximizing_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 40px; height: 10px;">
+      <img src="assets/images/Maximizing_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 40px; height: 80px;">
    </a>
 
    <div style="font-size: 1em; margin-left: 1em;">
