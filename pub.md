@@ -48,7 +48,7 @@ nav_order: 3
    <i>Frontiers in Genetics</i>, 2022<br>
    <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a></span>
 </div>
-<a href="Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf" target="_blank" style="flex-shrink: 0;">
+<a href="assets/pdf/Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf" target="_blank" style="flex-shrink: 0;">
    <img src="assets/images/Fine-scale_thumbnail.jpg" alt="Frontieers PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
 
