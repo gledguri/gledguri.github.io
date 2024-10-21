@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "CV"
-nav_order: 6
+title: "R packages"
+nav_order: 4
 ---
 
-# CV
+# R packages
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  
