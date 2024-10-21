@@ -27,7 +27,7 @@ nav_order: 3
 
 <div style="flex: 1;">
 <b style="font-size: 1.5em; line-height: 1.2;">Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri, Jon-Ivar Westgaard, Nigel Yoccoz, Owen S. Wangensteen, Kim Præbel, Jessica Louise Ray, Ryan P. Kelly, Andrew Olaf Shelton, Tanja Hanebrekke, Torild Johansen<br>
+   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Jon-Ivar Westgaard, Nigel Yoccoz, Owen S. Wangensteen, Kim Præbel, Jessica Louise Ray, Ryan P. Kelly, Andrew Olaf Shelton, Tanja Hanebrekke, Torild Johansen<br>
    <i>Environmental DNA</i>, 2024<br>
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409" target="_blank">doi.org/10.1002/edn3.409</a></span>
 </div>
@@ -44,7 +44,7 @@ nav_order: 3
 
 <div style="flex: 1;">
 <b style="font-size: 1.5em; line-height: 1.2;">Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Marta Turon, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel<br>
+   <span style="font-size: 1.2em; line-height: 1.3;">Marta Turon*, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel<br>
    <i>Frontiers in Genetics</i>, 2022<br>
    <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a></span>
 </div>
