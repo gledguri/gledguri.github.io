@@ -7,7 +7,7 @@ nav_order: 4
 # Publications
 
 1. **Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords**  
-   Authors: Gledis Guri<sup>1,2</sup>, Jon-Ivar Westgaard<sup>1</sup>, Nigel Yoccoz<sup>1</sup>, Owen S. Wangensteen<sup>1</sup>, Kim Præbel<sup>1</sup>, Jessica Louise Ray<sup>1</sup>, Ryan P. Kelly<sup>1</sup>, Andrew Olaf Shelton<sup>1</sup>, Tanja Hanebrekke<sup>1</sup>, Torild Johansen<sup>1</sup>
+   Authors: Gledis Guri<sup>1,2</sup>, Jon-Ivar Westgaard<sup>1</sup>, Nigel Yoccoz<sup>3</sup>, Owen S. Wangensteen<sup>2,4</sup>, Kim Præbel<sup>2</sup>, Jessica Louise Ray<sup>5</sup>, Ryan P. Kelly<sup>6</sup>, Andrew Olaf Shelton<sup>7</sup>, Tanja Hanebrekke<sup>1</sup>, Torild Johansen<sup>1</sup>
    Journal: *Environmental DNA*, 2024, [doi.org/10.1002/edn3.409](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409)
 
 <sup>1</sup> Norwegian Institute of Marine Research, Framsenteret, Tromsø, Norway
