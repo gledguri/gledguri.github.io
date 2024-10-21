@@ -7,13 +7,12 @@ nav_order: 4
 # Publications
 
 1. **Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords**  
-   Authors: Gledis Guri[^1][^2], Jon-Ivar Westgaard[^2], Nigel Yoccoz[^2], Owen S. Wangensteen[^2], Kim Præbel[^2], Jessica Louise Ray[^1], Ryan P. Kelly[^1], Andrew Olaf Shelton[^1], Tanja Hanebrekke[^2], Torild Johansen[^2]  
+   Authors: Gledis Guri<sup>1,2</sup>, Jon-Ivar Westgaard<sup>1</sup>, Nigel Yoccoz, Owen S. Wangensteen, Kim Præbel, Jessica Louise Ray, Ryan P. Kelly, Andrew Olaf Shelton, Tanja Hanebrekke, Torild Johansen  
    Journal: *Environmental DNA*, 2024, [doi.org/10.1002/edn3.409](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409)
 
-[^1]: University of Washington  
-[^2]: Norwegian Institute of Marine Research, Tromsø, Norway
-
----
+<sup>1</sup>Norwegian Institute of Marine Research, Tromsø, Norway
+Norwegian College of Fishery Science,UiT The Arctic University of Norway,Tromsø, Norway
+Dept. of Arctic and Marine Biology, UiT, The Arctic University of Norway, Tromsø, Norway
 
 2. **Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding**  
    Authors: Marta Turon[^1], Magnus Nygaard[^1], Gledis Guri[^1][^2], Owen S. Wangensteen[^1], Kim Præbel[^1]  
