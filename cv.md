@@ -10,6 +10,10 @@ nav_order: 6
 
 ## Working Experience
 
+**Aug 2024 – curently**
+**Postdoc #2**, [University of Washington](http://kellyresearchlab.com), Seattle, Washington, USA  
+Developing quantitative models for estimating fish
+
 **Feb 2024 – Jul 2024**
 **Postdoc #1**, [Institute of Marine Research](https://hi.no/hi), Norway  
 Developing quantitative models for estimating fish
@@ -53,7 +57,7 @@ Focused on Baltic Sea marine biology, environmental impact assessments (EIA), ma
 
 ---
 
-## Skills
+## Shining skills
 
 **Marine Biology**: eDNA metabarcoding, qPCR, ddPCR, biodiversity assessments, ecologycal study design.  
 **Ecological Data Analysis**: Bayesian models (stan), R.  
