@@ -4,14 +4,12 @@ title: "contacts"
 nav_order: 6
 ---
 
-# Contacts
+# Contact Me
 
-1. **Title of Article 1**  
-   Authors: [Your Name], Co-authors  
-   Journal: [Journal Name], Year, [DOI link or URL]  
-   [Link to full page about this article]
+You can reach me here:
+<link rel="stylesheet" href="{{ '/assets/css/contact-button.css' | relative_url }}">
 
-2. **Title of Article 2**  
-   Authors: [Your Name], Co-authors  
-   Journal: [Journal Name], Year, [DOI link or URL]  
-   [Link to full page about this article]
+<div class="contact-buttons">
+  <a href="mailto:gguri@uw.edu" class="email-button">Work Email</a>
+  <a href="mailto:gled.guri@gmail.com" class="email-button">Personal Email</a>
+</div>
