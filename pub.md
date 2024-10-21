@@ -15,8 +15,8 @@ nav_order: 3
    <a href="https://academic.oup.com/icesjms/article/81/8/1536/7728836" target="_blank">doi.org/10.1093/icesjms/fsae097</a></span>
 </div>
 
-<a href="assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Maximizing_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 160px; height: 220px; margin-left: 20px;">
+<a href="assets/pdf/ICES - 2024 - Guri - Predicting trawl catches using environmental DNA.pdf" target="_blank" style="flex-shrink: 0;">
+   <img src="assets/images/Predicting_thumbnail.jpg" alt="ICES PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
 
 </div>
@@ -49,7 +49,7 @@ nav_order: 3
    <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a></span>
 </div>
 <a href="Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Fine-scale_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 160px; height: 220px; margin-left: 20px;">
+   <img src="assets/images/Fine-scale_thumbnail.jpg" alt="Frontieers PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
 
 </div>
