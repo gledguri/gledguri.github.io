@@ -4,12 +4,6 @@ title: "Publications"
 nav_order: 3
 ---
 
----
-layout: default
-title: "projects"
-nav_order: 4
----
-
 # Publications
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
