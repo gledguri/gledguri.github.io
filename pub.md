@@ -29,7 +29,6 @@ nav_order: 3
    <span style="font-size: 1.2em; line-height: 1.2;">Marta Turon, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel<br>
    <i>Frontiers in Genetics</i>, 2022, <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a></span>
 </div>
-
 <a href="Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf" target="_blank" style="flex-shrink: 0;">
    <img src="assets/images/Fine-scale_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
