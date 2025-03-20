@@ -14,9 +14,10 @@ nav_order: 4
 <link rel="stylesheet" href="{{ '/assets/css/contact-button.css' | relative_url }}">
 
 <div class="contact-buttons">
-  <a href="https://html-preview.github.io/?url=https://github.com/gledguri/QM/blob/main/html/Showcase.html" class="email-button">QM</a>
+  <a href="https://html-preview.github.io/?url=https://github.com/gledguri/QM/blob/main/html/Showcase.html" class="email-button">QM R package</a>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 <a href="https://html-preview.github.io/?url=https://github.com/gledguri/QM/blob/main/html/Showcase.html" target="_blank" style="flex-shrink: 0;">
 <img src="assets/images/QM_model_layout.jpg" alt="QM overview" style="width: 500px; height: 246px; margin-left: 20px;">
 </a>
@@ -25,7 +26,7 @@ nav_order: 4
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
 
 1. **Title of Article 1**  
    Authors: [Your Name], Co-authors  
