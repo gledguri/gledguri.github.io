@@ -9,7 +9,7 @@ nav_order: 3
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA Samples</b><br>
+<b style="font-size: 1.5em; line-height: 1.2;">Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples</b><br>
    <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Jessica Louise Ray, Andrew Olaf Shelton, Ryan P Kelly, Kim Præbel, Elizabeth Andruszkiewicz Allan, Nigel Yoccoz, Torild Johansen, Owen S Wangensteen, Tanja Hanebrekke, Jon-Ivar Westgaard<br>
    <i>Ecology and Evolution</i>, 2024<br>
    <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70678" target="_blank">doi.org/10.1002/ece3.70678</a></span>
