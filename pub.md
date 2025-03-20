@@ -9,12 +9,26 @@ nav_order: 3
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
+<b style="font-size: 1.5em; line-height: 1.2;">Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA Samples</b><br>
+   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Jessica Louise Ray, Andrew Olaf Shelton, Ryan P Kelly, Kim Præbel, Elizabeth Andruszkiewicz Allan, Nigel Yoccoz, Torild Johansen, Owen S Wangensteen, Tanja Hanebrekke, Jon-Ivar Westgaard<br>
+   <i>Ecology and Evolution</i>, 2024<br>
+   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70678" target="_blank">doi.org/10.1002/ece3.70678</a></span>
+</div>
+<a href="assets/pdf/Ecology and Evolution - 2024 - Guri - Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA samples.pdf" target="_blank" style="flex-shrink: 0;">
+   <img src="assets/images/qpcr_ddpcr_thumbnail.jpg" alt="ICES PDF" style="width: 160px; height: 220px; margin-left: 20px;">
+</a>
+
+</div>
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1;">
 <b style="font-size: 1.5em; line-height: 1.2;">Predicting trawl catches using environmental DNA</b><br>
    <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Andrew Olaf Shelton, Ryan P Kelly, Nigel Yoccoz, Torild Johansen, Kim Præbel, Tanja Hanebrekke, Jessica Louise Ray, Johanna Fall, Jon-Ivar Westgaard<br>
    <i>ICES Journal of Marine Science</i>, 2024<br>
    <a href="https://academic.oup.com/icesjms/article/81/8/1536/7728836" target="_blank">doi.org/10.1093/icesjms/fsae097</a></span>
 </div>
-
 <a href="assets/pdf/ICES - 2024 - Guri - Predicting trawl catches using environmental DNA.pdf" target="_blank" style="flex-shrink: 0;">
    <img src="assets/images/Predicting_thumbnail.jpg" alt="ICES PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
