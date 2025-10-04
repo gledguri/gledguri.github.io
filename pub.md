@@ -6,6 +6,23 @@ nav_order: 3
 
 # Publications
 
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1;">
+<b style="font-size: 1.5em; line-height: 1.2;">Differential decay of multiple environmental nucleic acid components</b><br>
+   <span style="font-size: 1.2em; line-height: 1.3;">Pedro FP Brandão-Dias*, Megan Shaffer, Gledis Guri, Kim M. Parsons, Ryan P. Kelly & Elizabeth Andruszkiewicz Allan<br>
+   <i>Scientific Reports</i>, 2025<br>
+   <a href="https://www.nature.com/articles/s41598-025-12916-5" target="_blank">doi.org/10.1038/s41598-025-12916-5</a></span>
+</div>
+
+<a href="#" target="_blank" style="flex-shrink: 0;">
+   <img src="assets/images/Decay_thumbnail.png" alt="Scientific Reports PDF" style="width: 160px; height: 220px; margin-left: 20px;">
+</a>
+
+</div>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
