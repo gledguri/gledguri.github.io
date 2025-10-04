@@ -6,8 +6,6 @@ nav_order: 3
 
 # Publications
 
-<br>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
@@ -22,6 +20,8 @@ nav_order: 3
 </a>
 
 </div>
+
+<br>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
