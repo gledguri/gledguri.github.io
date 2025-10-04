@@ -15,7 +15,7 @@ nav_order: 3
    <a href="https://www.nature.com/articles/s41598-025-12916-5" target="_blank">doi.org/10.1038/s41598-025-12916-5</a></span>
 </div>
 
-<a href="#" target="_blank" style="flex-shrink: 0;">
+<a href="assets/pdf/Differential decay of multiple environmental nucleic acid components.pdf" target="_blank" style="flex-shrink: 0;">
    <img src="assets/images/Decay_thumbnail.png" alt="Scientific Reports PDF" style="width: 160px; height: 220px; margin-left: 20px;">
 </a>
 
