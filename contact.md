@@ -1,15 +1,7 @@
 ---
 layout: default
-title: "contacts"
-nav_order: 7
+title: "Contact"
+page_class: contact
 ---
-
-# Contact Me
-
-You can reach me here:
-<link rel="stylesheet" href="{{ '/assets/css/contact-button.css' | relative_url }}">
-
-<div class="contact-buttons">
-  <a href="mailto:gguri@uw.edu" class="email-button">Work Email</a>
-  <a href="mailto:gled.guri@gmail.com" class="email-button">Personal Email</a>
-</div>
+<section class="page-intro"><p class="eyebrow"><span class="status-dot"></span> Let’s connect</p><h1>Good science starts<br><em>with a conversation.</em></h1><p class="lead">A research question, a potential collaboration, or just a hello. I’d love to hear from you.</p></section>
+<div class="contact-grid"><a class="contact-card" href="mailto:gguri@uw.edu"><span class="eyebrow">Work email</span><h2>gguri@uw.edu</h2><span class="card-action">Start a conversation <span>↗</span></span></a><a class="contact-card" href="mailto:gled.guri@gmail.com"><span class="eyebrow">Personal email</span><h2>gled.guri@gmail.com</h2><span class="card-action">Say hello <span>↗</span></span></a></div>

@@ -1,13 +1,6 @@
 ---
 layout: default
-title: "about"
-nav_order: 2
+title: "About"
+page_class: about
 ---
-# About Me
-<div style="text-align: center;">
-  <img src="assets/images/my_photo.jpeg" alt="My Picture" style="border-radius: 70%; max-width: 400px;">
-</div>
-
-I am an enthusiastic researcher with a great interest in environmental DNA (eDNA) and its quantification using Bayesian models. My passion for mathematics began in my teenage years when, suddenly, "it clicked, and I understood how math works." Today, I try to use math to solve ecological problems. I am very social and outgoing, always curious about the world around me. Cephalopods are my favorite animals, and I hosts a [podcast] just for the sake of learning more about these creatures. I am always up for any water sport, including surfing, diving, and snowboarding (after all, snow is water too).
-
-[podcast]: https://open.spotify.com/show/6UqYSsFYwihwMBoysSWRjN
+<section class="about-layout"><div class="about-portrait"><img src="{{ '/assets/images/my_photo.jpeg' | relative_url }}" alt="Gledis Guri" width="600" height="750"><span class="portrait-caption">Gledis Guri / Marine biologist</span></div><div class="about-copy"><p class="eyebrow">Hello, I’m Gledis</p><h1>Curiosity is<br><em>the common thread.</em></h1><p class="lead">Marine biology, environmental DNA, and the mathematics that help us connect the two.</p><p>I am a researcher with a particular interest in environmental DNA (eDNA) and its quantification using Bayesian models. My background spans marine spatial analysis, fieldwork and ecological data analysis.</p><p>My fascination with mathematics began in my teenage years, when it suddenly clicked. Today, I use it to explore ecological questions — from fish community composition to what DNA traces can tell us about marine life.</p><p>I’m social, outgoing and always curious about the world around me. Cephalopods are my favourite animals; I even host a <a href="https://open.spotify.com/show/6UqYSsFYwihwMBoysSWRjN">podcast</a> to keep learning about them. Away from research, you might find me surfing, diving or snowboarding. Snow is water, after all.</p><div class="hero-actions"><a class="button" href="{{ '/cv' | relative_url }}">Explore my CV ↗</a><a class="text-link" href="{{ '/contact' | relative_url }}">Say hello ↗</a></div></div></section>

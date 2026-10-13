@@ -1,11 +1,11 @@
-title: "Gledis Guri - Postdoctoral Researcher"
-description: "A personal website for showcasing my research, publications, and projects."
+title: "Gledis Guri — Marine biology & ecological modelling"
+description: "Environmental DNA, Bayesian models and marine ecology. Explore Gledis Guri’s research, publications and open-source tools."
 baseurl: ""
-url: "https://gledguri.github.io"  # Make sure your URL is correct
-
-# Add these configurations for Kramdown
+url: "https://gledguri.github.io"
 markdown: kramdown
 kramdown:
-  input: GFM  # Use GitHub-Flavored Markdown
-  auto_ids: true  # Automatically generate IDs for headings
-  toc_levels: 1..6  # Generate TOC for heading levels 1 to 6
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
+exclude:
+  - README.md

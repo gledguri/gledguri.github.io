@@ -1,87 +1,13 @@
 ---
 layout: default
 title: "Publications"
-nav_order: 3
+page_class: publications
 ---
-
-# Publications
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Differential decay of multiple environmental nucleic acid components</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Pedro FP Brandão-Dias*, Megan Shaffer, Gledis Guri, Kim M. Parsons, Ryan P. Kelly & Elizabeth Andruszkiewicz Allan<br>
-   <i>Scientific Reports</i>, 2025<br>
-   <a href="https://www.nature.com/articles/s41598-025-12916-5" target="_blank">doi.org/10.1038/s41598-025-12916-5</a></span>
-</div>
-
-<a href="assets/pdf/Differential decay of multiple environmental nucleic acid components.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Decay_thumbnail.png" alt="Scientific Reports PDF" style="width: 160px; height: 220px; margin-left: 20px;">
-</a>
-
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Jessica Louise Ray, Andrew Olaf Shelton, Ryan P Kelly, Kim Præbel, Elizabeth Andruszkiewicz Allan, Nigel Yoccoz, Torild Johansen, Owen S Wangensteen, Tanja Hanebrekke, Jon-Ivar Westgaard<br>
-   <i>Ecology and Evolution</i>, 2024<br>
-   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70678" target="_blank">doi.org/10.1002/ece3.70678</a></span>
-</div>
-<a href="assets/pdf/Ecology and Evolution - 2024 - Guri - Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA samples.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/qpcr_ddpcr_thumbnail.jpg" alt="ICES PDF" style="width: 160px; height: 220px; margin-left: 20px;">
-</a>
-
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Predicting trawl catches using environmental DNA</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Andrew Olaf Shelton, Ryan P Kelly, Nigel Yoccoz, Torild Johansen, Kim Præbel, Tanja Hanebrekke, Jessica Louise Ray, Johanna Fall, Jon-Ivar Westgaard<br>
-   <i>ICES Journal of Marine Science</i>, 2024<br>
-   <a href="https://academic.oup.com/icesjms/article/81/8/1536/7728836" target="_blank">doi.org/10.1093/icesjms/fsae097</a></span>
-</div>
-<a href="assets/pdf/ICES - 2024 - Guri - Predicting trawl catches using environmental DNA.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Predicting_thumbnail.jpg" alt="ICES PDF" style="width: 160px; height: 220px; margin-left: 20px;">
-</a>
-
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Gledis Guri*, Jon-Ivar Westgaard, Nigel Yoccoz, Owen S. Wangensteen, Kim Præbel, Jessica Louise Ray, Ryan P. Kelly, Andrew Olaf Shelton, Tanja Hanebrekke, Torild Johansen<br>
-   <i>Environmental DNA</i>, 2024<br>
-   <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409" target="_blank">doi.org/10.1002/edn3.409</a></span>
-</div>
-
-<a href="assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Maximizing_thumbnail.jpg" alt="Environmental DNA PDF" style="width: 160px; height: 220px; margin-left: 20px;">
-</a>
-
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="flex: 1;">
-<b style="font-size: 1.5em; line-height: 1.2;">Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding</b><br>
-   <span style="font-size: 1.2em; line-height: 1.3;">Marta Turon*, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel<br>
-   <i>Frontiers in Genetics</i>, 2022<br>
-   <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full" target="_blank">doi.org/10.3389/fgene.2022.957251</a></span>
-</div>
-<a href="assets/pdf/Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf" target="_blank" style="flex-shrink: 0;">
-   <img src="assets/images/Fine-scale_thumbnail.jpg" alt="Frontieers PDF" style="width: 160px; height: 220px; margin-left: 20px;">
-</a>
-
-</div>
+<section class="page-intro"><p class="eyebrow">Research in print</p><h1>Following the evidence.<br><em>Sharing the discoveries.</em></h1><p class="lead">Articles exploring environmental DNA, marine communities and the methods that connect them.</p></section>
+<section class="publication-list" aria-label="Publications">
+<article class="publication"><div class="publication-copy"><p class="eyebrow">Scientific Reports / 2025</p><h2>Differential decay of multiple environmental nucleic acid components</h2><p class="authors">Pedro FP Brandão-Dias*, Megan Shaffer, Gledis Guri, Kim M. Parsons, Ryan P. Kelly & Elizabeth Andruszkiewicz Allan</p><div class="publication-links"><a class="text-link" href="https://www.nature.com/articles/s41598-025-12916-5">Read article ↗</a><a class="text-link" href="{{ '/assets/pdf/Differential decay of multiple environmental nucleic acid components.pdf' | relative_url }}">Open PDF ↓</a></div></div><a class="publication-cover" href="{{ '/assets/pdf/Differential decay of multiple environmental nucleic acid components.pdf' | relative_url }}" aria-label="Open PDF: Differential decay of multiple environmental nucleic acid components"><img src="{{ '/assets/images/Decay_thumbnail.png' | relative_url }}" alt="" loading="lazy" width="160" height="220"></a></article>
+<article class="publication"><div class="publication-copy"><p class="eyebrow">Ecology and Evolution / 2024</p><h2>Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples</h2><p class="authors">Gledis Guri*, Jessica Louise Ray, Andrew Olaf Shelton, Ryan P Kelly, Kim Præbel, Elizabeth Andruszkiewicz Allan, Nigel Yoccoz, Torild Johansen, Owen S Wangensteen, Tanja Hanebrekke, Jon-Ivar Westgaard</p><div class="publication-links"><a class="text-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70678">Read article ↗</a><a class="text-link" href="{{ '/assets/pdf/Ecology and Evolution - 2024 - Guri - Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA samples.pdf' | relative_url }}">Open PDF ↓</a></div></div><a class="publication-cover" href="{{ '/assets/pdf/Ecology and Evolution - 2024 - Guri - Quantifying the Detection Sensitivity and Precision of qPCR and ddPCR Mechanisms for eDNA samples.pdf' | relative_url }}" aria-label="Open PDF: Quantifying the detection sensitivity and precision of qPCR and ddPCR mechanisms for eDNA samples"><img src="{{ '/assets/images/qpcr_ddpcr_thumbnail.jpg' | relative_url }}" alt="" loading="lazy" width="160" height="220"></a></article>
+<article class="publication"><div class="publication-copy"><p class="eyebrow">ICES Journal of Marine Science / 2024</p><h2>Predicting trawl catches using environmental DNA</h2><p class="authors">Gledis Guri*, Andrew Olaf Shelton, Ryan P Kelly, Nigel Yoccoz, Torild Johansen, Kim Præbel, Tanja Hanebrekke, Jessica Louise Ray, Johanna Fall, Jon-Ivar Westgaard</p><div class="publication-links"><a class="text-link" href="https://academic.oup.com/icesjms/article/81/8/1536/7728836">Read article ↗</a><a class="text-link" href="{{ '/assets/pdf/ICES - 2024 - Guri - Predicting trawl catches using environmental DNA.pdf' | relative_url }}">Open PDF ↓</a></div></div><a class="publication-cover" href="{{ '/assets/pdf/ICES - 2024 - Guri - Predicting trawl catches using environmental DNA.pdf' | relative_url }}" aria-label="Open PDF: Predicting trawl catches using environmental DNA"><img src="{{ '/assets/images/Predicting_thumbnail.jpg' | relative_url }}" alt="" loading="lazy" width="160" height="220"></a></article>
+<article class="publication"><div class="publication-copy"><p class="eyebrow">Environmental DNA / 2024</p><h2>Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords</h2><p class="authors">Gledis Guri*, Jon-Ivar Westgaard, Nigel Yoccoz, Owen S. Wangensteen, Kim Præbel, Jessica Louise Ray, Ryan P. Kelly, Andrew Olaf Shelton, Tanja Hanebrekke, Torild Johansen</p><div class="publication-links"><a class="text-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.409">Read article ↗</a><a class="text-link" href="{{ '/assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf' | relative_url }}">Open PDF ↓</a></div></div><a class="publication-cover" href="{{ '/assets/pdf/Environmental DNA - 2023 - Guri - Maximizing sampling efficiency to detect differences in fish community composition using.pdf' | relative_url }}" aria-label="Open PDF: Maximizing sampling efficiency to detect differences in fish community composition using environmental DNA metabarcoding in subarctic fjords"><img src="{{ '/assets/images/Maximizing_thumbnail.jpg' | relative_url }}" alt="" loading="lazy" width="160" height="220"></a></article>
+<article class="publication"><div class="publication-copy"><p class="eyebrow">Frontiers in Genetics / 2022</p><h2>Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding</h2><p class="authors">Marta Turon*, Magnus Nygaard, Gledis Guri, Owen S. Wangensteen, Kim Præbel</p><div class="publication-links"><a class="text-link" href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.957251/full">Read article ↗</a><a class="text-link" href="{{ '/assets/pdf/Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf' | relative_url }}">Open PDF ↓</a></div></div><a class="publication-cover" href="{{ '/assets/pdf/Frontieers in genetic - 2022 - Turon - Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding.pdf' | relative_url }}" aria-label="Open PDF: Fine-scale differences in eukaryotic communities inside and outside salmon aquaculture cages revealed by eDNA metabarcoding"><img src="{{ '/assets/images/Fine-scale_thumbnail.jpg' | relative_url }}" alt="" loading="lazy" width="160" height="220"></a></article>
+</section>

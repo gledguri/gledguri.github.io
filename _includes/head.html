@@ -1,9 +1,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ page.title }}</title>
-
-<!-- Link to your custom CSS -->
+<meta name="description" content="{{ page.description | default: site.description | escape }}">
+<meta name="theme-color" content="#f5f3ed">
+<title>{{ page.title | escape }} · Gledis Guri</title>
+<link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-<!-- Lunr.js library for search functionality -->
-<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script type="module" src="{{ '/assets/js/site.js' | relative_url }}"></script>

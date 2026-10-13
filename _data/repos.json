@@ -1,0 +1,98 @@
+[
+  {
+    "id": "multispecies",
+    "number": "01",
+    "title": "Quantitative multispecies eDNA",
+    "slug": "Quantitative-Multispecies-eDNA",
+    "category": "quantification",
+    "topic": "Multispecies quantification",
+    "figure": "hub",
+    "tone": "sage",
+    "description": "Connecting qPCR and metabarcoding to estimate DNA concentrations across multiple species.",
+    "detail": "A joint statistical model combines absolute abundance from a reference species with compositional metabarcoding data. Spatial smooths turn the estimates into maps, with a reproducible workflow for manuscript figures.",
+    "tags": [
+      "R",
+      "Stan",
+      "Quarto",
+      "Spatial models"
+    ],
+    "gesture": "Move across the tiles to explore the connections.",
+    "metaphor": "A network of connected tiles, illustrating how multiple sources of evidence come together."
+  },
+  {
+    "id": "sampling",
+    "number": "02",
+    "title": "Smart eDNA sampling",
+    "slug": "Smart-eDNA-sampling",
+    "category": "spatial",
+    "topic": "Sampling & spatial prediction",
+    "figure": "terrain",
+    "tone": "sand",
+    "description": "Exploring how sampling effort shapes spatial prediction, and how to design more efficient eDNA surveys.",
+    "detail": "Analysis code evaluates sampling effort with spatial models and simulations. An accompanying survey planner lets you explore the relationship between prediction error, sampling effort and survey area.",
+    "tags": [
+      "R",
+      "Stan",
+      "Survey design"
+    ],
+    "gesture": "Move over the field to lift the sampling landscape.",
+    "metaphor": "An interactive field of pillars, illustrating spatial variation."
+  },
+  {
+    "id": "air",
+    "number": "03",
+    "title": "Air eDNA quantification",
+    "slug": "Air-eDNA-quant",
+    "category": "quantification",
+    "topic": "DNA at the water–air interface",
+    "figure": "dish",
+    "tone": "blue",
+    "description": "Investigating the transfer of environmental DNA from water into air through passive air sampling.",
+    "detail": "Explore the R and Stan analysis scripts, field and laboratory data, posterior model outputs, figures and manuscript materials behind the study “Passive air sampling detects environmental DNA transfer from water into air”.",
+    "tags": [
+      "R",
+      "Stan",
+      "Passive sampling"
+    ],
+    "gesture": "Move the pointer to aim the collector.",
+    "metaphor": "A dish that follows the pointer, used here as a metaphor for collecting a faint signal."
+  },
+  {
+    "id": "pcr",
+    "number": "04",
+    "title": "qPCR & ddPCR: sensitivity and precision",
+    "slug": "Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples",
+    "category": "quantification",
+    "topic": "Detection & measurement",
+    "figure": "sieve",
+    "tone": "lavender",
+    "description": "Comparing how two PCR methods detect and quantify low concentrations of environmental DNA.",
+    "detail": "Bayesian analyses of known DNA standards and environmental samples assess detection sensitivity and quantification precision for three teleost fish species assays. Includes the code and data supporting the research article.",
+    "tags": [
+      "R",
+      "Bayesian analysis",
+      "qPCR / ddPCR"
+    ],
+    "gesture": "Move up and down to separate the layers.",
+    "metaphor": "Stacked sieves that separate on interaction, a metaphor for examining measurement methods."
+  },
+  {
+    "id": "trawl",
+    "number": "05",
+    "title": "Predicting trawl catches with eDNA",
+    "slug": "Predicting_trawl_catches_with_eDNA",
+    "category": "fisheries",
+    "topic": "eDNA & fisheries",
+    "figure": "plot",
+    "tone": "sage",
+    "description": "Bringing molecular observations and traditional trawl surveys together for fisheries research.",
+    "detail": "Explore the repository accompanying “Predicting trawl catches using environmental DNA”, published in ICES Journal of Marine Science. The project connects eDNA observations with trawl catches.",
+    "tags": [
+      "R",
+      "eDNA",
+      "Fisheries"
+    ],
+    "gesture": "Move across the bars to explore the signal.",
+    "metaphor": "Bars that rise on interaction, illustrating the idea of comparing observations."
+  }
+]
