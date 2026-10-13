@@ -64,7 +64,7 @@
     "slug": "Quantifying-the-detection-sensitivity-and-precision-of-qPCR-and-ddPCR-mechanisms-for-eDNA-samples",
     "category": "quantification",
     "topic": "Detection & measurement",
-    "figure": "dna",
+    "figure": "microscope",
     "tone": "lavender",
     "description": "Comparing how two PCR methods detect and quantify low concentrations of environmental DNA.",
     "detail": "Bayesian analyses of known DNA standards and environmental samples assess detection sensitivity and quantification precision for three teleost fish species assays. Includes the code and data supporting the research article.",
@@ -73,8 +73,8 @@
       "Bayesian analysis",
       "qPCR / ddPCR"
     ],
-    "gesture": "Move across the helix to turn the DNA strands.",
-    "metaphor": "An interactive DNA double helix, representing molecular quantification."
+    "gesture": "A closer look at the laboratory.",
+    "metaphor": "A laboratory microscope with a specimen slide and sample tubes, illustrating laboratory measurement."
   },
   {
     "id": "trawl",
@@ -83,7 +83,7 @@
     "slug": "Predicting_trawl_catches_with_eDNA",
     "category": "fisheries",
     "topic": "eDNA & fisheries",
-    "figure": "fish",
+    "figure": "trawl",
     "tone": "sage",
     "description": "Bringing molecular observations and traditional trawl surveys together for fisheries research.",
     "detail": "Explore the repository accompanying “Predicting trawl catches using environmental DNA”, published in ICES Journal of Marine Science. The project connects eDNA observations with trawl catches.",
@@ -92,7 +92,7 @@
       "eDNA",
       "Fisheries"
     ],
-    "gesture": "Move through the school to follow the fish.",
-    "metaphor": "A school of fish, representing the marine communities studied in fisheries research."
+    "gesture": "Following the catch, from sea to survey.",
+    "metaphor": "A fishing boat towing a mesh net containing fish beneath the water, illustrating a trawl survey."
   }
 ]

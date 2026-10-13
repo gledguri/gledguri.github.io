@@ -17,12 +17,13 @@ document.querySelector('.site-header')?.addEventListener('keydown', (event) => {
   }
 });
 
+const motionPreference = window.matchMedia("(prefers-reduced-motion: reduce)");
 const figures = [];
 for (const element of document.querySelectorAll('[data-figure]')) {
   figures.push(marineFigure(element, {
     theme: 'light',
     intensity: 0.65,
-    play: false,
+    play: !motionPreference.matches,
     label: element.dataset.label,
   }));
 }
@@ -48,24 +49,6 @@ if (filters) {
   });
 }
 
-const playButton = document.querySelector('.play-toggle');
-const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-function stopPlaying() {
-  figures.forEach((figure) => figure.update({ play: false }));
-  playButton?.setAttribute('aria-pressed', 'false');
-  const label = playButton?.querySelector('[data-play-label]');
-  if (label) label.textContent = 'Animate figures';
-}
-if (playButton) {
-  playButton.hidden = reducedMotion.matches;
-  playButton.addEventListener('click', () => {
-    const playing = playButton.getAttribute('aria-pressed') !== 'true';
-    figures.forEach((figure) => figure.update({ play: playing }));
-    playButton.setAttribute('aria-pressed', String(playing));
-    playButton.querySelector('[data-play-label]').textContent = playing ? 'Pause figures' : 'Animate figures';
-  });
-  reducedMotion.addEventListener('change', (event) => {
-    playButton.hidden = event.matches;
-    if (event.matches) stopPlaying();
-  });
-}
+motionPreference.addEventListener("change", event => {
+  figures.forEach(figure => figure.update({ play: !event.matches }));
+});

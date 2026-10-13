@@ -600,17 +600,7 @@ nav a[aria-current]::after {
   opacity: .75;
 }
 
-.play-toggle {
-  font-size: 10px;
-  background: transparent;
-  border: 1px solid var(--line);
-  padding: 10px 13px;
-  white-space: nowrap;
-}
 
-.play-toggle:hover,.play-toggle[aria-pressed=true] {
-  border-color: var(--ink);
-}
 
 .repo-grid {
   display: grid;
@@ -1320,9 +1310,7 @@ summary: hover {
     font-size: 10px;
     padding: 9px;
   }
-  .play-toggle {
-    font-size: 10px;
-  }
+
   .repo-grid {
     grid-template-columns: 1fr;
     gap: 20px;
@@ -1457,6 +1445,7 @@ summary: hover {
 }
 .science-svg path,
 .science-svg line,
+.science-svg ellipse,
 .science-svg circle {
   fill: none;
   stroke: #65877b;
@@ -1518,4 +1507,23 @@ summary: hover {
   font-family: var(--serif);
   font-size: 15px;
   font-style: italic;
+}
+
+.science-svg .coral-branch {
+  stroke: #6f9182;
+  stroke-width: 1.65;
+}
+.science-svg .octopus-arms path {
+  stroke: #537e70;
+  stroke-width: 1.2;
+}
+.science-svg .net-outline {
+  stroke: #65877b;
+}
+.science-svg .net-mesh path {
+  stroke: #a5bcaf;
+  stroke-width: .65;
+}
+.science-svg .lab-glass path {
+  stroke: #8ba398;
 }

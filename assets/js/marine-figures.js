@@ -1,6 +1,9 @@
 // Research illustrations use Hairline's shared pointer, spring and visibility engine.
 const { clamp, pointer, register, spring, stepS, tour, disposer } = window.HL;
 const stops = {
+  ocean: [[290, 120], [237, 225], [85, 245], [325, 180], null],
+  trawl: [[135, 90], [278, 195], [100, 225], null],
+  microscope: [[175, 90], [180, 185], [265, 200], null],
   whale: [[310, 155], [100, 185], [240, 240], null],
   fish: [[183, 182], [282, 142], [115, 111], null],
   dna: [[105, 125], [285, 200], [200, 145], null],
@@ -24,11 +27,18 @@ export function marineFigure(element, options = {}) {
     y: Number(group.dataset.y),
     angle: Number(group.dataset.angle),
     scale: Number(group.dataset.scale),
+    range: Number(group.dataset.range || 15),
     lift: spring(0),
   }));
   const whale = svg.querySelector('[data-motion="whale"]');
   const dna = svg.querySelector('[data-motion="dna"]');
   const model = svg.querySelector('[data-motion="model"]');
+  const octopus = svg.querySelector('[data-motion="octopus"]');
+  const corals = [...svg.querySelectorAll('[data-motion="coral"]')];
+  const boat = svg.querySelector('[data-motion="boat"]');
+  const net = svg.querySelector('[data-motion="net"]');
+  const microscopeStage = svg.querySelector('[data-motion="stage"]');
+  const focus = svg.querySelector('[data-motion="focus"]');
   const curve = position => 226 - 0.51 * (position - 65) - 17 * Math.sin((position - 65) / 35);
   let last = '';
   let playing = null;
@@ -40,6 +50,16 @@ export function marineFigure(element, options = {}) {
     if (whale) {
       whale.setAttribute('transform', `translate(${x.x * 0.045} ${y.x * 0.03}) rotate(${-8 + y.x * 0.035} 200 180)`);
     }
+    if (octopus) {
+      octopus.setAttribute('transform', `translate(${237 + x.x * 0.025} ${230 + y.x * 0.025}) rotate(${x.x * 0.02}) scale(.72)`);
+    }
+    for (const coral of corals) {
+      coral.setAttribute('transform', `translate(${coral.dataset.x} ${coral.dataset.y}) rotate(${x.x * 0.012}) scale(${coral.dataset.scale || 1})`);
+    }
+    if (boat) boat.setAttribute('transform', `translate(0 ${y.x * 0.018}) rotate(${x.x * 0.009} 115 103)`);
+    if (net) net.setAttribute('transform', `rotate(${x.x * 0.01} 194 165)`);
+    if (microscopeStage) microscopeStage.setAttribute('transform', `translate(0 ${y.x * 0.035})`);
+    if (focus) focus.setAttribute('transform', `rotate(${x.x * 0.2} 264 196)`);
     for (const item of fish) {
       const rise = item.lift.x;
       item.group.setAttribute('transform', `translate(${item.x + rise * 0.25} ${item.y - rise}) rotate(${item.angle - rise * 0.3}) scale(${item.scale})`);
@@ -86,7 +106,7 @@ export function marineFigure(element, options = {}) {
       y.t = clamp(position[1] - 160, -120, 120);
       for (const item of fish) {
         const distance = Math.hypot(position[0] - item.x, position[1] - item.y);
-        item.lift.t = 15 * Math.exp(-((distance / 75) ** 2));
+        item.lift.t = item.range * Math.exp(-((distance / 75) ** 2));
       }
       clock.wake();
     },
