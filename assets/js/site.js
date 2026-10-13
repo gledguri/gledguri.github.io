@@ -1,4 +1,4 @@
-import { terrain, hub, dish, sieve, plot } from '../vendor/hairline/index.js';
+const { marineFigure } = await import(`./marine-figures.js${new URL(import.meta.url).search}`);
 
 document.documentElement.classList.add('js');
 
@@ -17,12 +17,9 @@ document.querySelector('.site-header')?.addEventListener('keydown', (event) => {
   }
 });
 
-const factories = { terrain, hub, dish, sieve, plot };
 const figures = [];
 for (const element of document.querySelectorAll('[data-figure]')) {
-  const factory = factories[element.dataset.figure];
-  if (!factory) continue;
-  figures.push(factory(element, {
+  figures.push(marineFigure(element, {
     theme: 'light',
     intensity: 0.65,
     play: false,

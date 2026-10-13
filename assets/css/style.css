@@ -1447,3 +1447,75 @@ summary: hover {
     transform: none;
   }
 }
+
+/* Scientific illustrations: original marine and molecular line drawings. */
+.science-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.science-svg path,
+.science-svg line,
+.science-svg circle {
+  fill: none;
+  stroke: #65877b;
+  stroke-width: 1.15;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+.science-svg .organism-outline {
+  fill: var(--tone, var(--paper));
+  stroke: #426e62;
+}
+.science-svg .featured-organism {
+  stroke: var(--ink);
+}
+.science-svg .anatomy {
+  stroke: #88a093;
+}
+.science-svg .eye {
+  fill: #426e62;
+  stroke: none;
+}
+.science-svg .ocean-lines path,
+.science-svg .ocean-lines circle {
+  stroke: #b4c6ba;
+}
+.science-svg .dna-strand {
+  stroke: #426e62;
+  stroke-width: 1.4;
+}
+.science-svg .dna-rung {
+  stroke: #96ada1;
+}
+.science-svg .model-grid path {
+  stroke: #d1d9cf;
+}
+.science-svg .uncertainty {
+  stroke: #a4b9ac;
+  stroke-dasharray: 3 5;
+}
+.science-svg .model-curve {
+  stroke: var(--accent);
+  stroke-width: 1.4;
+}
+.science-svg .model-observation {
+  fill: var(--tone, var(--paper));
+  stroke: #78968a;
+}
+.science-svg .model-slice {
+  stroke: #a4b9ac;
+  stroke-dasharray: 2 5;
+}
+.science-svg .model-point {
+  fill: var(--tone, var(--paper));
+  stroke: var(--ink);
+}
+.science-svg .model-equation {
+  fill: #648276;
+  font-family: var(--serif);
+  font-size: 15px;
+  font-style: italic;
+}
