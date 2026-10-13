@@ -9,4 +9,4 @@ description: "Explore Gledis Guri's open research code for eDNA quantification, 
 <p class="sr-only" id="filter-status" role="status" aria-live="polite"></p>
 <section class="repo-grid" aria-label="Research repositories">{% for repo in site.data.repos %}{% include repo-card.html %}{% endfor %}</section>
 <p class="illustration-note">Interactive illustrations inspired by the research themes. Explore each repository for the study data and figures.</p>
-<section class="contact-strip"><div><p class="eyebrow">Ideas are better shared</p><h2>Let’s explore a question together.</h2></div><a class="button" href="{{ '/contact' | relative_url }}">Get in touch <span aria-hidden="true">↗</span></a></section>
+<section class="contact-strip"><div><p class="eyebrow">Ideas are better shared</p><h2>Let’s explore a question together.</h2></div><a class="button" href="{{ '/contact' | relative_url }}">Get in touch</a></section>

@@ -177,14 +177,6 @@ p {
   position: relative;
 }
 
-.monogram span {
-  font-family: var(--sans);
-  font-size: 13px;
-  position: absolute;
-  top: -4px;
-  right: 13px;
-}
-
 nav {
   display: flex;
   align-items: center;
@@ -503,10 +495,6 @@ nav a[aria-current]::after {
   text-decoration: none;
 }
 
-.footer-name span {
-  font-size: 15px;
-}
-
 .site-footer p {
   font-size: 12px;
   margin-top: 8px;
@@ -657,10 +645,6 @@ nav a[aria-current]::after {
   font-size: 9px;
 }
 
-.visual-mark {
-  font-size: 18px;
-}
-
 .repo-visual .hairline-figure {
   max-width: 340px;
   margin: 0 auto;
@@ -758,10 +742,6 @@ summary: hover {
 
 .repo-link:hover {
   color: var(--accent);
-}
-
-.repo-link>span[aria-hidden] {
-  font-size: 21px;
 }
 
 .secondary-link {
